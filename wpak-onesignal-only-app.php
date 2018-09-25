@@ -5,6 +5,6 @@
   Author: Uncategorized Creations
   Author URI:  http://getwpappkit.com
   Version: 1.0.0
- */
+*/
 
 add_filter( 'do_send_notification', '__return_false' );
